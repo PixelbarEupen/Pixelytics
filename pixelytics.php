@@ -2,7 +2,7 @@
 /*
 Plugin Name: Pixelytics - Pixelbar Asynchronous Google Analytics Plugin
 Description: Google Analytics Code in Backend ballern, fertig! 
-Version:0.1
+Version:0.2
 Author: Gino Cremer
 GitHub Plugin URI: https://github.com/PixelbarEupen/Pixelytics
 GitHub Access Token: 6ca583973da0e33ee1a6c90c3e4920e6143369ca
